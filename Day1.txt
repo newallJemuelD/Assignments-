@@ -1,0 +1,18 @@
+
+# Day 1 - Learning 
+
+## Skill and knowledge 
+	There is a huge gap between learning and practically applying what we learn. In the current culture, most from the engineering background are used to gaining knowledge but when it comes to job and practically solving problems we are miles away. The problem is that  gaining knowledge and acquiring skills are entirely different categories and requires different effort. 
+	Skills are not gained individually but they are like building blocks, small skills makes up other larger skills. For example to gain programming skills, basic skills of reading, writing, breaking down problems, Synthesis of solutions are to be used. It is these skills that  we should be focused on building that  will enable us to excel in the necessary works. 
+
+## CLI and Vim editor 
+	GUI - Graphical User Interface is the common way of using a computer, we are used to till now. CLI is the other way using a computer which is common amoung programmers. It gives clarity, control and enables us to understand the system better from my experiential perspective. 
+	Using Vim editor, gives the advantage of writing and understanding the syntax of the programming language. Not using mouse and other advanced features in the modern IDE's like auto-completion enables to write better and clean code in the longer run as a programmer.   	
+
+## Git 
+	Git is a version control system, that tracks the changes we make in code or any document. It is useful in retriving the old versions of writing or code. We learnt a brief introduction about this software and some basic commands like initialising, addind files and other such. Tomorrow the session will continue and we will learn how to save documents to the internet.   
+
+## Mark-up
+	Mark-up is like plain language with symbols that are used for editing or formatting a file. It is common agreed upon convention that is used to give order to writing in a specific format. Rather than giving specific color or size, the text  is given symbols which denote that  specific instance of  style and format. 
+
+ 
